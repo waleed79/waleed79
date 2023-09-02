@@ -24,7 +24,7 @@ export default function Other() {
               </strong>
             </li>
             <li style={{ fontSize: "1em" }}>
-            I got elected as a batch Representative at Student Council of LUMS, which represented a student body of more than 3000. I secured 155/216 votes to win my seat. For the year 2022-2023 
+            I got elected as a batch Representative at Student Council of LUMS, which represented a student body of more than 3000. I secured 155/216 votes to win my seat. For the year 2022-2023, I was part of this council. 
             </li>
           </ul>
 
