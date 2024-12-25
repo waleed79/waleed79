@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior student at LUMS. This is my portfolio. 
+I am a graduate student at University of Wisconsin-Madison. This is my portfolio. 
 <!--
 **waleed79/waleed79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
