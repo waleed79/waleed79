@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Waleed Arshad!  
 
 🎓 **Graduate Student | Computer Science @ University of Wisconsin-Madison**  
-💡 Passionate about **Data Science, Machine Learning, and Cloud Computing**  
-🌍 Exploring **AI for low-resource languages & predictive analytics**  
-🔍 Always curious about **Data Engineering, Security, and Scalable Systems**  
+💡 Passionate about **Data Science, Software Engineering, and Cloud Computing**  
+🌍 Exploring **AI for low-resource languages, predictive analytics & scalable systems**  
+🔍 Always curious about **Big Data Processing, Security, and Full-Stack Development**  
 
 ---
 
 ## 🚀 About Me  
-📊 Experienced in **Data Analysis, Predictive Modeling & Cloud Computing**  
-🛠️ Skilled in **Python, SQL, Machine Learning, Data Visualization**  
-📡 Interested in **Big Data Processing & AI-driven insights**  
+📊 Experienced in **Data Analysis, Predictive Modeling & Software Engineering**  
+🛠️ Skilled in **Python, SQL, JavaScript, and Cloud Technologies**  
+📡 Interested in **Big Data Processing, AI-driven insights & Scalable Web Applications**  
 📜 Published at **USENIX Security** on **Digital Security & Socio-Cultural Research**  
 
 ---
@@ -41,21 +41,55 @@
 📌 Applied **Gradient Boosting Regressor** for **delivery time prediction**  
 📌 Processed **10,000+ data points** with **Python (Pandas, NumPy, Matplotlib)**  
 
-### 🔹 Fine-Tuning Multilingual Models for Low-Resource Languages  
-📌 Created a **labeled dataset of 2,500 Shahmukhi Punjabi text samples**  
-📌 Achieved **92.9% accuracy** in topic classification using **XLM-RoBERTa**  
-📌 Used **active learning** to reduce labeled data requirements by **5x**  
+### 🔹 Full-Stack UNO Multiplayer Game - [📌 GitHub](https://github.com/waleed79/UNO)  
+📌 Developed **a real-time UNO game using MERN stack (MongoDB, Express.js, React.js, Node.js)**  
+📌 Implemented **game logic, API routing & scalable database management**  
+📌 Optimized **game performance & real-time multiplayer experience**  
+
+### 🔹 Interactive Hangman Game - [📌 GitHub](https://github.com/waleed79/hangman)  
+📌 Built **a Hangman game with React.js frontend & Node.js backend**  
+📌 Integrated **MongoDB for persistent player data & leaderboard**  
+📌 Designed **an engaging UI with modular React components**  
+
+### 🔹 Project Taawun (NGO Web Portal) - [📌 GitHub](https://github.com/shahmeerify/Taawun)  
+📌 Developed a **welfare web portal using React.js & Node.js**  
+📌 Adopted **Agile methodologies for efficient development**  
+📌 Conducted **comprehensive testing for cross-device compatibility**  
+
+### 🔹 Library Management System - [📌 GitHub](https://github.com/shanzaysaeed/LIBRARY-MANAGEMENT-SYSTEM)  
+📌 Developed **a full-stack library management system using React.js & Node.js**  
+📌 Established **SQL database management for efficient storage & retrieval**  
+📌 Designed **user-friendly UI for book borrowing & account management**  
+
+### 🔹 Multi-User Chat Server (Networking)  
+📌 Implemented **a multi-user chat application using Python sockets**  
+📌 Integrated **TCP & UDP protocols for reliable/unreliable communication**  
+📌 Used **network threading to handle multiple connections concurrently**  
 
 ---
 
 ## 🛠 Skills  
 
-📌 **Programming:** Python, SQL, C++, JavaScript, Shell Scripting  
-📌 **Cloud & DevOps:** GCP, AWS, Kubernetes, Docker  
-📌 **Machine Learning:** Scikit-learn, TensorFlow, NLP, Predictive Analytics  
-📌 **Big Data & Databases:** ETL Pipelines, PostgreSQL, MySQL  
-📌 **Data Visualization:** Tableau, Power BI, Matplotlib, Excel  
-📌 **Project Management:** Git, Jira, CI/CD, Agile  
+### **Programming Languages**  
+📌 Python (Pandas, NumPy, Scikit-learn, Matplotlib), JavaScript, TypeScript, SQL, C++, MATLAB  
+
+### **Software Engineering & Full-Stack Development**  
+📌 **Frontend:** React.js (UI/UX, Responsive Design)  
+📌 **Backend:** Node.js, Express.js, API Development  
+📌 **Databases:** MongoDB, PostgreSQL, MySQL  
+
+### **Machine Learning & Data Science**  
+📌 Scikit-learn, TensorFlow, NLP, Predictive Analytics  
+📌 Big Data Processing, ETL Pipelines  
+
+### **Cloud & DevOps**  
+📌 Google Cloud Platform (GCP), AWS, Kubernetes, Docker  
+
+### **Data Visualization**  
+📌 Tableau, Power BI, Matplotlib, Excel  
+
+### **Project Management & Development**  
+📌 Git, Jira, CI/CD, Agile Development, Testing & Debugging  
 
 ---
 
